@@ -1,4 +1,4 @@
-# FizzBuz Exercise
+# FizzBuzz Exercise
 
 This an exercise to create an algorithm to check whether a number is divisble by another number and print out a message if it is.
 
